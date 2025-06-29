@@ -1,0 +1,36 @@
+{
+  "welcome": "Bienvenue à l’église Sainte-famille! N’hésitez pas à vous sentir comme chez vous!",
+  "annonces_title": "📌 Annonces",
+  "autres_annonces_title": "📋 Autres annonces",
+  "urgentes_title": "🚨 Demandes urgentes",
+  "messes_title": "⛪ Messes de la semaine",
+  "evenements_title": "🎉 Événements à venir",
+  "annonces_rows": [
+    "Retraite spirituelle",
+    "Concert de louange",
+    "Vente de gâteaux"
+  ],
+  "annonces_captions": [
+    "Retraite spirituelle",
+    "Concert de louange",
+    "Vente de gâteaux"
+  ],
+  "autres_annonces": [
+    "Réunion des jeunes samedi à 15h",
+    "Formation des lecteurs dimanche après la messe"
+  ],
+  "urgentes": [
+    "Recherche famille d’accueil pour une personne dans le besoin",
+    "Besoin urgent de choristes pour dimanche 11h"
+  ],
+  "evenements": [
+    "Soirée louange vendredi à 19h",
+    "Conférence sur la foi samedi 10h",
+    "Sortie fraternelle dimanche après‑midi"
+  ],
+  "messes": [
+    { "jour": "Lundi [23]", "heure": "18h00", "chorale": "Chorale Emmanuel" },
+    { "jour": "Mercredi [25]", "heure": "7h30", "chorale": "Chorale Sainte Famille" },
+    { "jour": "Dimanche [29]", "heure": "11h00", "chorale": "Chorale Lumière" }
+  ]
+}
