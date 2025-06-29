@@ -34,8 +34,8 @@
     { "jour": "Dimanche [29]", "heure": "11h00", "chorale": "Chorale Lumière" }
   ]
   "annonces_rows": [
-  "https://raw.githubusercontent.com/Christfollower777/App-code-mod/main/images/retreat.jpg",
-  "https://raw.githubusercontent.com/Christfollower777/App-code-mod/main/images/concert.jpg/83191b95-99d3-4ab4-8756-6faf2cc39136",
-  "https://raw.githubusercontent.com/Christfollower777/App-code-mod/main/images/vente.jpg"
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/retreat.jpg",
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/concert.jpg",
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/vente.jpg"
 ]
 }
