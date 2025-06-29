@@ -33,4 +33,9 @@
     { "jour": "Mercredi [25]", "heure": "7h30", "chorale": "Chorale Sainte Famille" },
     { "jour": "Dimanche [29]", "heure": "11h00", "chorale": "Chorale Lumière" }
   ]
+  "annonces_rows": [
+  "https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/images/retreat.jpg",
+  "https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/images/concert.jpg",
+  "https://raw.githubusercontent.com/ton-utilisateur/ton-repo/main/images/vente.jpg"
+]
 }
