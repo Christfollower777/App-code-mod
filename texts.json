@@ -6,9 +6,10 @@
   "messes_title": "⛪ Messes de la semaine",
   "evenements_title": "🎉 Événements à venir",
   "annonces_rows": [
-    "Retraite spirituelle",
-    "Concert de louange",
-    "Vente de gâteaux"
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/retreat.jpg",
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/concert.jpg",
+  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/vente.jpg"
+]
   ],
   "annonces_captions": [
     "Retraite spirituelle",
@@ -33,9 +34,4 @@
     { "jour": "Mercredi [25]", "heure": "7h30", "chorale": "Chorale Sainte Famille" },
     { "jour": "Dimanche [29]", "heure": "11h00", "chorale": "Chorale Lumière" }
   ]
-  "annonces_rows": [
-  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/retreat.jpg",
-  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/concert.jpg",
-  "https://raw.githubusercontent.com/Christfollower777/my-assets/main/vente.jpg"
-]
 }
